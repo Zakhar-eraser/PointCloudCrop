@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.thumbnails
+/bin
+/debug
+/include
+/launch_debug.bat
+/launch_editor.bat
+/launch_release.bat
+/lib
+/share
+/tools
+/utils/natvis
+/vcpkg_installed/vcpkg
+/data/*
+!data/Textures/
+/source/.vs/PointCloudCrop
+/source/x64/Debug

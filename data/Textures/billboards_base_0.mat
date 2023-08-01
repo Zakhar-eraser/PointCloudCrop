@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="10db37f9e18569f152db5b876479819405301d26" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
+	<options transparent="0" order="0" shadow_mask="0" blend_src="0" blend_dest="0" depth_mask="1" depth_test="0" cast_shadow="0" cast_world_shadow="0" overlap="1"/>
+	<state name="emission_texture">0</state>
+	<state name="material_ssao">0</state>
+	<state name="material_ssr">0</state>
+	<state name="material_dof">0</state>
+	<state name="material_motion_blur">0</state>
+	<state name="material_screen_space_shadows">0</state>
+	<texture name="diffuse">guid://7629b7fc22b6f99ff26e5696bff60ea7e97bdbf7</texture>
+</material>

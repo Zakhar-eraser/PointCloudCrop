@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>5c8c8ec30bf845f3a3391d811d77dc91efe33cf8</guid>
+	<type>texture</type>
+	<hash>3dca175b</hash>
+	<runtimes>
+		<runtime id="391e045c9a415878d852a8a389ce0fe542fe4e3e" name="962f5e64-b399-4821-b8bc-001ee24ff2ae.png" link="0" type="6"/>
+		<runtime id="7629b7fc22b6f99ff26e5696bff60ea7e97bdbf7" name="962f5e64-b399-4821-b8bc-001ee24ff2ae.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">RGB8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>
